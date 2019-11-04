@@ -79,14 +79,5 @@ $(document).ready(function(){
     addressBook.addContact(newContact);
     displayContactDetails(addressBook);
 
-
   });
-
 });
-
-// var contact = new Contact("Ada", "Lovelace", "503-555-0100");
-// var contact2 = new Contact("Grace", "Hopper", "503-555-0199");
-
-// addressBook.addContact(contact);
-// addressBook.addContact(contact2);
-// console.log(firstNameInput,lastNameInput,phoneNumberInput);
